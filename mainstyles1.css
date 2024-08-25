@@ -1,0 +1,221 @@
+.navagationbar{
+    background-color: red;
+}
+.navfonts a{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navfonts a:hover{
+	background-color:blue;
+    font-weight: bold;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    background-color: #FEFEB6;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 37px;
+    padding: 40px 0px 0px 0px;
+    font-weight: bolder;
+    color:#fb811d;
+}
+.heading1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+    padding: 40px 0px 0px 0px;
+    color:#fb811d;
+}
+.parahead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: #2A9FF1;
+    font-weight: bold;
+}
+.parahead1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: #2A9FF1;
+    font-weight: bold;
+}
+.LRbutton{
+    margin-top: 60px;
+    background-color: hsl(214, 74%, 64%);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(68, 71, 67);
+}
+.LRbutton:hover{
+    background-color: blue;
+    font-weight:bolder;
+}
+.pixel{
+	width:100%;
+	height:100%;
+	
+}
+.pics{
+	width:100%;
+	height:95%;
+	padding:10px;
+	
+	
+}
+.pics2{
+	width:100%;
+	height:90%;
+	padding:10px;
+	
+}
+.pics3{
+	width:100%;
+	height:50%;	
+}
+.hero-image{
+				background-image:linear-gradient(rgba(248,248,252,0.8),rgba(248,248,252,0.8)),url("../images/background_img2.jpeg");
+				height:60%;
+				width:100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				background-size:cover;
+				position:relative;
+				}
+.hero-image1{
+				background-image:linear-gradient(rgba(60,152,241,0.8),rgba(60,152,241,0.8)),url("../images/student 2.jpg");
+				height:85%;
+				width:100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				background-size:cover;
+				position:relative;
+}
+.hero-image2{
+				background-image:linear-gradient(rgba(248,248,252,0.9),rgba(248,248,252,0.9)),url("../images/background img3.jpeg");
+				height:50%;
+				width:100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				background-size:cover;
+				position:relative;
+				}
+.hero-image3{
+				background-image:url("../images/map.png");
+				height:90%;
+				width:100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				background-size:cover;
+				position:relative;
+				}
+.achievements{
+				background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("../images/result 2.jpg");
+				height:75%;
+				width:100%;
+				background-position:center;
+				background-repeat:no-repeat;
+				background-size:cover;
+				position:relative;
+				}
+.achievements-text{
+				text-align:center;
+				position:absolute;
+				top:40%;
+				left:42%;
+				transform:translate(-20%,-20%);
+				color:white;
+				font-size:70px;
+				font-weight:;
+				}
+.hero-text1{
+				text-align:center;
+				position:absolute;
+				top:15%;
+				left:45%;
+				transform:translate(-20%,-20%);
+				color:white;
+				font-size:25px;
+				font-weight:bold;
+				}
+.hero-text2{
+				text-align:center;
+				position:absolute;
+				top:30%;
+				left:40%;
+				transform:translate(-20%,-20%);
+				color:red;
+				font-size:50px;
+				font-weight:bold;
+				}
+		
+body,html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+		}
+
+.hero-text{
+				text-align:center;
+				position:absolute;
+				top:40%;
+				left:35%;
+				transform:translate(-20%,-20%);
+				color:blue;
+				font-size:30px;
+				font-weight:bold;
+				
+			
+				}
+.hero-text3{
+				text-align:center;
+				position:absolute;
+				top:28%;
+				left:49%;
+				transform:translate(-20%,-20%);
+				
+				font-size:20px;
+				font-weight:bold;
+				
+			
+				}
+.row1{
+		height:70%;
+		width:100%;
+}
+.text{
+	color:white;
+	text-align:center;
+	padding:20px;
+}
+.text1{
+	color:white;
+	padding:2px;
+}
+.text2 {
+  font-style:italic;
+  text-align:center;
+  background-color:white;
+  font-weight:bold;
+}
+.button:hover{
+	background-color:red;
+}
+.button1:hover{
+	background-color:red;
+	color:white;
+}
+.button2{
+	font-size:20px;
+	color:blue;
+}
+.border{
+	color:white;
+	font-size:20px;
+}

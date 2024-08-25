@@ -1,0 +1,87 @@
+.navagationbar{
+    background-color: red;
+}
+.items:hover{
+    background-color: hsl(258, 98%, 65%);
+}
+.navfonts a{
+    color: white;
+    font-weight: bolder;
+    font-style: italic;
+	font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    background-color: #FEFEB6;
+}
+.logo-img{
+    width:100%;
+    height:100%;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 35px;
+    padding: 40px 0px 0px 0px;
+    font-weight: bolder;
+    color: #d8980e;
+}
+.parahead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    color: #2A9FF1;
+    font-weight: bold;
+}
+.LRbutton{
+    margin-top: 60px;
+    background-color: hsl(214, 74%, 64%);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(68, 71, 67);
+}
+.LRbutton:hover{
+    background-color: blue;
+    font-weight: bolder;
+}
+.academic-img{
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("../SCHOOL IMAGES/Academics.jpg");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+.hero-rana{
+	background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("../images/About Us.jpg");
+    width: 100%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    background-size: cover;
+}
+body,html{
+    height: 70%;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.rana-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+	color: white;
+}
+.her-text2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+	color: white;
+}
